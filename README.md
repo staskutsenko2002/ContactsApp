@@ -7,6 +7,10 @@ I present you a technical task ContactApp. The project is done completely in Swi
 
 Enjoy the review 😊
 
+## Estimation
+Initial estimation is 10 hours.
+Time spent is 8 hours.
+
 ## Architecture
 For the architecture, I used MVVM-C + Clean Architecture.
 
